@@ -15,3 +15,7 @@ $ git commit
 $ git add  file1.txt
 
 
+  adaf | sdaf 
+:- | :-
+dddddd | dadfafsdfaasdfasdf
+asdfas | adfasdf
